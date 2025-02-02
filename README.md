@@ -1,5 +1,6 @@
 # Commands-list-for-minecraft
 List of commands for minecraft:
+
 1	ability
 
 1.2	alwaysday
